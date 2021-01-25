@@ -1,0 +1,17 @@
+{
+  "version": 2,
+  "dgSpecHash": "q7vhQ//9Rrk9ZWEXDThwawtaZvU0qExNl1v6s/BwhyHSosFal2q32px+A0Ug5HHC0hELmmzvRnqI+0YQANJt/A==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Robert\\Desktop\\Kali\\Junior Mind\\FirstApplication\\FirstApplication\\FirstApplication.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Robert\\.nuget\\packages\\microsoft.codeanalysis.fxcopanalyzers\\3.3.1\\microsoft.codeanalysis.fxcopanalyzers.3.3.1.nupkg.sha512",
+    "C:\\Users\\Robert\\.nuget\\packages\\microsoft.codeanalysis.versioncheckanalyzer\\3.3.1\\microsoft.codeanalysis.versioncheckanalyzer.3.3.1.nupkg.sha512",
+    "C:\\Users\\Robert\\.nuget\\packages\\microsoft.codequality.analyzers\\3.3.1\\microsoft.codequality.analyzers.3.3.1.nupkg.sha512",
+    "C:\\Users\\Robert\\.nuget\\packages\\microsoft.netcore.analyzers\\3.3.1\\microsoft.netcore.analyzers.3.3.1.nupkg.sha512",
+    "C:\\Users\\Robert\\.nuget\\packages\\microsoft.netframework.analyzers\\3.3.1\\microsoft.netframework.analyzers.3.3.1.nupkg.sha512",
+    "C:\\Users\\Robert\\.nuget\\packages\\roslynator.analyzers\\3.0.0\\roslynator.analyzers.3.0.0.nupkg.sha512",
+    "C:\\Users\\Robert\\.nuget\\packages\\sonaranalyzer.csharp\\8.15.0.24505\\sonaranalyzer.csharp.8.15.0.24505.nupkg.sha512",
+    "C:\\Users\\Robert\\.nuget\\packages\\stylecop.analyzers\\1.1.118\\stylecop.analyzers.1.1.118.nupkg.sha512"
+  ],
+  "logs": []
+}
