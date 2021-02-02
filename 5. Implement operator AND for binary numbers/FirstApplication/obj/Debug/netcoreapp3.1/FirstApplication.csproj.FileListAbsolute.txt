@@ -1,0 +1,13 @@
+C:\Users\Robert\Desktop\Kali\Junior Mind\FirstApplication\FirstApplication\bin\Debug\netcoreapp3.1\FirstApplication.exe
+C:\Users\Robert\Desktop\Kali\Junior Mind\FirstApplication\FirstApplication\bin\Debug\netcoreapp3.1\FirstApplication.deps.json
+C:\Users\Robert\Desktop\Kali\Junior Mind\FirstApplication\FirstApplication\bin\Debug\netcoreapp3.1\FirstApplication.runtimeconfig.json
+C:\Users\Robert\Desktop\Kali\Junior Mind\FirstApplication\FirstApplication\bin\Debug\netcoreapp3.1\FirstApplication.runtimeconfig.dev.json
+C:\Users\Robert\Desktop\Kali\Junior Mind\FirstApplication\FirstApplication\bin\Debug\netcoreapp3.1\FirstApplication.dll
+C:\Users\Robert\Desktop\Kali\Junior Mind\FirstApplication\FirstApplication\bin\Debug\netcoreapp3.1\FirstApplication.pdb
+C:\Users\Robert\Desktop\Kali\Junior Mind\FirstApplication\FirstApplication\obj\Debug\netcoreapp3.1\FirstApplication.csprojAssemblyReference.cache
+C:\Users\Robert\Desktop\Kali\Junior Mind\FirstApplication\FirstApplication\obj\Debug\netcoreapp3.1\FirstApplication.AssemblyInfoInputs.cache
+C:\Users\Robert\Desktop\Kali\Junior Mind\FirstApplication\FirstApplication\obj\Debug\netcoreapp3.1\FirstApplication.AssemblyInfo.cs
+C:\Users\Robert\Desktop\Kali\Junior Mind\FirstApplication\FirstApplication\obj\Debug\netcoreapp3.1\FirstApplication.dll
+C:\Users\Robert\Desktop\Kali\Junior Mind\FirstApplication\FirstApplication\obj\Debug\netcoreapp3.1\FirstApplication.pdb
+C:\Users\Robert\Desktop\Kali\Junior Mind\FirstApplication\FirstApplication\obj\Debug\netcoreapp3.1\FirstApplication.genruntimeconfig.cache
+C:\Users\Robert\Desktop\Kali\Junior Mind\FirstApplication\FirstApplication\obj\Debug\netcoreapp3.1\FirstApplication.csproj.CoreCompileInputs.cache
